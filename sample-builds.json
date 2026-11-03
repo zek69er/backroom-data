@@ -5,46 +5,46 @@
   "builds": [
     {
       "tier": 1,
-      "price_cents": 109900,
+      "price_cents": 129900,
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 5 9600X"
+          "name": "AMD Ryzen 5 5600X"
         },
         {
           "type": "motherboard",
-          "name": "ASRock B850M Pro RS WiFi"
+          "name": "MSI B550 Gaming WiFi6E"
         },
         {
           "type": "ram",
-          "name": "Kingston FURY Beast 16GB DDR5-6000 CL30",
+          "name": "Patriot Viper Steel 16GB DDR4-3200",
           "qty": 2
         },
         {
           "type": "gpu",
-          "name": "AMD Radeon RX 9060 XT 16GB"
+          "name": "Zotac RTX 5060 8GB Twin Edge OC"
         },
         {
           "type": "storage",
-          "name": "WD Blue SN580 1TB NVMe"
+          "name": "Kingston 1TB NVMe PCIe 4.0"
         },
         {
           "type": "psu",
-          "name": "Corsair RM650e 650W 80 Plus Gold"
+          "name": "BeQuiet! System Power 11 550W 80+ Bronze"
         },
         {
           "type": "case",
-          "name": "Fractal Design Pop Air"
+          "name": "Kolink Observatory HF Mesh"
         },
         {
           "type": "cooler",
-          "name": "Thermalright Peerless Assassin 120 SE"
+          "name": "Arctic Freezer 36"
         }
       ]
     },
     {
       "tier": 2,
-      "price_cents": 179000,
+      "price_cents": 229500,
       "parts": [
         {
           "type": "cpu",
@@ -52,75 +52,71 @@
         },
         {
           "type": "motherboard",
-          "name": "MSI MAG B850 Tomahawk WiFi"
+          "name": "Asrock B850 Pro RS WiFi"
         },
         {
           "type": "ram",
-          "name": "G.Skill Flare X5 16GB DDR5-6000 CL30",
+          "name": "G.Skill Ripjaws 32GB DDR5-6000 ARGB",
           "qty": 2
         },
         {
           "type": "gpu",
-          "name": "NVIDIA GeForce RTX 5070 12GB"
+          "name": "XFX Radeon RX 9060XT 16GB Swift OC"
         },
         {
           "type": "storage",
-          "name": "Samsung 990 EVO Plus 2TB NVMe"
+          "name": "Kingston 1TB NVMe PCIe 4.0"
         },
         {
           "type": "psu",
-          "name": "Corsair RM750e 750W 80 Plus Gold"
+          "name": "Thermaltake Toughpower GT 750W 80+ Gold"
         },
         {
           "type": "case",
-          "name": "Lian Li Lancool 216"
+          "name": "Lian Li Vector V100"
         },
         {
           "type": "cooler",
-          "name": "Arctic Liquid Freezer III 280"
+          "name": "Arctic Liquid Freezer III Pro 360"
         }
       ]
     },
     {
       "tier": 3,
-      "price_cents": 299000,
+      "price_cents": 455000,
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 9 9900X"
+          "name": "AMD Ryzen 7 9800X3D"
         },
         {
           "type": "motherboard",
-          "name": "ASUS ProArt X870E-Creator WiFi"
+          "name": "Gigabyte B850 Aorus Elite WiFi 7"
         },
         {
           "type": "ram",
-          "name": "Corsair Vengeance 32GB DDR5-6000 CL30",
+          "name": "G.Skill Ripjaws 32GB DDR5-6000 ARGB",
           "qty": 2
         },
         {
           "type": "gpu",
-          "name": "NVIDIA GeForce RTX 5070 Ti 16GB"
+          "name": "MSI RTX 5080 Gaming Trio"
         },
         {
           "type": "storage",
-          "name": "Samsung 990 Pro 2TB NVMe (σύστημα)"
-        },
-        {
-          "type": "storage",
-          "name": "Samsung 990 Pro 2TB NVMe (projects)"
+          "name": "Samsung 2TB 9100 Pro PCIe 5.0"
         },
         {
           "type": "psu",
-          "name": "Corsair RM850x 850W 80 Plus Gold"
+          "name": "Seasonic Focus GX1000 80+ Gold"
         },
         {
           "type": "case",
-          "name": "be quiet! Silent Base 802"
+          "name": "Fractal Design North"
         },
         {
           "type": "cooler",
-          "name": "Arctic Liquid Freezer III 360"
+          "name": "Arctic Liquid Freezer III Pro 360"
         }
       ]
     }
