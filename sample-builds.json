@@ -18,7 +18,6 @@
         {
           "type": "ram",
           "name": "Patriot Viper Steel 16GB DDR4-3200",
-          "qty": 2
         },
         {
           "type": "gpu",
@@ -57,7 +56,6 @@
         {
           "type": "ram",
           "name": "G.Skill Ripjaws 32GB DDR5-6000 ARGB",
-          "qty": 2
         },
         {
           "type": "gpu",
@@ -96,7 +94,6 @@
         {
           "type": "ram",
           "name": "G.Skill Ripjaws 32GB DDR5-6000 ARGB",
-          "qty": 2
         },
         {
           "type": "gpu",
