@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "published_at": "2026-11-01T10:00:00+02:00",
+  "prices_until": "2026-11-07T23:59:59+02:00",
+  "builds": [
+    {
+      "tier": 1,
+      "price_cents": 109900,
+      "parts": [
+        {
+          "type": "cpu",
+          "name": "AMD Ryzen 5 7600"
+        },
+        {
+          "type": "motherboard",
+          "name": "ASRock B650M Pro RS WiFi"
+        },
+        {
+          "type": "ram",
+          "name": "Kingston FURY Beast 16GB DDR5-6000 CL30",
+          "qty": 2
+        },
+        {
+          "type": "gpu",
+          "name": "AMD Radeon RX 9060 XT 16GB"
+        },
+        {
+          "type": "storage",
+          "name": "WD Blue SN580 1TB NVMe"
+        },
+        {
+          "type": "psu",
+          "name": "Corsair RM650e 650W 80 Plus Gold"
+        },
+        {
+          "type": "case",
+          "name": "Fractal Design Pop Air"
+        },
+        {
+          "type": "cooler",
+          "name": "Thermalright Peerless Assassin 120 SE"
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "price_cents": 179000,
+      "parts": [
+        {
+          "type": "cpu",
+          "name": "AMD Ryzen 7 9700X"
+        },
+        {
+          "type": "motherboard",
+          "name": "MSI MAG B850 Tomahawk WiFi"
+        },
+        {
+          "type": "ram",
+          "name": "G.Skill Flare X5 16GB DDR5-6000 CL30",
+          "qty": 2
+        },
+        {
+          "type": "gpu",
+          "name": "NVIDIA GeForce RTX 5070 12GB"
+        },
+        {
+          "type": "storage",
+          "name": "Samsung 990 EVO Plus 2TB NVMe"
+        },
+        {
+          "type": "psu",
+          "name": "Corsair RM750e 750W 80 Plus Gold"
+        },
+        {
+          "type": "case",
+          "name": "Lian Li Lancool 216"
+        },
+        {
+          "type": "cooler",
+          "name": "Arctic Liquid Freezer III 280"
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "price_cents": 299000,
+      "parts": [
+        {
+          "type": "cpu",
+          "name": "AMD Ryzen 9 9900X"
+        },
+        {
+          "type": "motherboard",
+          "name": "ASUS ProArt X870E-Creator WiFi"
+        },
+        {
+          "type": "ram",
+          "name": "Corsair Vengeance 32GB DDR5-6000 CL30",
+          "qty": 2
+        },
+        {
+          "type": "gpu",
+          "name": "NVIDIA GeForce RTX 5070 Ti 16GB"
+        },
+        {
+          "type": "storage",
+          "name": "Samsung 990 Pro 2TB NVMe (σύστημα)"
+        },
+        {
+          "type": "storage",
+          "name": "Samsung 990 Pro 2TB NVMe (projects)"
+        },
+        {
+          "type": "psu",
+          "name": "Corsair RM850x 850W 80 Plus Gold"
+        },
+        {
+          "type": "case",
+          "name": "be quiet! Silent Base 802"
+        },
+        {
+          "type": "cooler",
+          "name": "Arctic Liquid Freezer III 360"
+        }
+      ]
+    }
+  ]
+}
