@@ -17,7 +17,7 @@
         },
         {
           "type": "ram",
-          "name": "8GB Patriot Viper Steel DDR4-3200 (16GB σύνολο)",
+          "name": "16GB Patriot Viper Steel DDR4-3200"
         },
         {
           "type": "gpu",
@@ -55,7 +55,7 @@
         },
         {
           "type": "ram",
-          "name": "16GB G.Skill Ripjaws DDR5-6000 ARGB (32GB σύνολο)",
+          "name": "32GB G.Skill Ripjaws DDR5-6000 ARGB"
         },
         {
           "type": "gpu",
@@ -93,7 +93,7 @@
         },
         {
           "type": "ram",
-          "name": "16GB G.Skill Ripjaws DDR5-6000 ARGB (32GB σύνολο)",
+          "name": "32GB G.Skill Ripjaws DDR5-6000 ARGB"
         },
         {
           "type": "gpu",
