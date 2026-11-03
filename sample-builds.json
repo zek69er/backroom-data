@@ -9,11 +9,11 @@
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 5 7600"
+          "name": "AMD Ryzen 5 9600X"
         },
         {
           "type": "motherboard",
-          "name": "ASRock B650M Pro RS WiFi"
+          "name": "ASRock B850M Pro RS WiFi"
         },
         {
           "type": "ram",
