@@ -1,39 +1,39 @@
 {
   "format": 1,
-  "published_at": "2026-11-01T10:00:00+02:00",
-  "prices_until": "2026-11-07T23:59:59+02:00",
+  "published_at": "2026-11-12T17:43:10+02:00",
+  "prices_until": "2026-11-19T17:43:10+02:00",
   "builds": [
     {
       "tier": 1,
-      "price_cents": 129900,
+      "price_cents": 144900,
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 5 5600X"
+          "name": "Ryzen 5 5600X"
         },
         {
           "type": "motherboard",
-          "name": "MSI B550 Gaming WiFi6E"
+          "name": "MSI B550 Gaming WiFi"
         },
         {
           "type": "ram",
-          "name": "16GB Patriot Viper Steel DDR4-3200"
+          "name": "2x8 GB DDR4 3000MT/s"
         },
         {
           "type": "gpu",
-          "name": "Zotac RTX 5060 8GB Twin Edge OC"
+          "name": "Zotac RTX 5060 Twin Edge"
         },
         {
           "type": "storage",
-          "name": "Kingston 1TB NVMe PCIe 4.0"
+          "name": "1TB Kingston PCIe 4.0"
         },
         {
           "type": "psu",
-          "name": "BeQuiet! System Power 11 550W 80+ Bronze"
+          "name": "BeQuiet System Power 11 550W 80+ Bronze"
         },
         {
           "type": "case",
-          "name": "Kolink Observatory HF Mesh"
+          "name": "Kolink Observatory HF Mesh aRGB"
         },
         {
           "type": "cooler",
@@ -43,11 +43,11 @@
     },
     {
       "tier": 2,
-      "price_cents": 229500,
+      "price_cents": 229900,
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 7 9700X"
+          "name": "Ryzen 7 9700X"
         },
         {
           "type": "motherboard",
@@ -55,7 +55,7 @@
         },
         {
           "type": "ram",
-          "name": "32GB G.Skill Ripjaws DDR5-6000 ARGB"
+          "name": "2x16 GB DDR5 6.000MT/s"
         },
         {
           "type": "gpu",
@@ -63,29 +63,29 @@
         },
         {
           "type": "storage",
-          "name": "Kingston 1TB NVMe PCIe 4.0"
+          "name": "1TB Kingston PCIe 4.0"
         },
         {
           "type": "psu",
-          "name": "Thermaltake Toughpower GT 750W 80+ Gold"
+          "name": "Thermaltake Toughpower GT750 80+ Gold"
         },
         {
           "type": "case",
-          "name": "Lian Li Vector V100"
+          "name": "LianLi Vector v100"
         },
         {
           "type": "cooler",
-          "name": "Arctic Liquid Freezer III Pro 360"
+          "name": "Deepcool LE360 v2"
         }
       ]
     },
     {
       "tier": 3,
-      "price_cents": 455000,
+      "price_cents": 449900,
       "parts": [
         {
           "type": "cpu",
-          "name": "AMD Ryzen 7 9800X3D"
+          "name": "Ryzen 7 9800X3D"
         },
         {
           "type": "motherboard",
@@ -93,7 +93,7 @@
         },
         {
           "type": "ram",
-          "name": "32GB G.Skill Ripjaws DDR5-6000 ARGB"
+          "name": "2x16 GB DDR5 6.000MT/s"
         },
         {
           "type": "gpu",
@@ -101,11 +101,11 @@
         },
         {
           "type": "storage",
-          "name": "Samsung 2TB 9100 Pro PCIe 5.0"
+          "name": "2TB Samsung 9100 Pro PCIe 5.0"
         },
         {
           "type": "psu",
-          "name": "Seasonic Focus GX1000 80+ Gold"
+          "name": "Seasonic Focus GX 1000 80+ Gold"
         },
         {
           "type": "case",
